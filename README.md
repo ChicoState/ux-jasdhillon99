@@ -1,1 +1,3 @@
-# ___'s UX Journal
+# Jasjit's UX Journal
+![Readme Logo](assets/xp_icons.png)
+Hi! I'm a Computer Science student. I like cooking and making music.
