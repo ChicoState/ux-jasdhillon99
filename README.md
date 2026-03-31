@@ -3,4 +3,4 @@
 
 Hi! I'm a Computer Science student. I like cooking and making music.
 
-[Journal 01](/j01)
+[Journal 01](/j01.md)
